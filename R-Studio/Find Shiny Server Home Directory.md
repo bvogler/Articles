@@ -1,10 +1,9 @@
 #Find Home directory in Shiny Server
 
-<<<<<<< HEAD:R-Studio/Find Shiny Server Home Directory.md
-Use Sys.getenv to get the environment variables.  Normal the environment variable “HOME” is set toto the home directory.
+Use Sys.getenv to get the environment variables.  Normal the environment variable ï¿½HOMEï¿½ is set toto the home directory.
 
 ###Example
-Sys.getenv(“HOME”)
+Sys.getenv(ï¿½HOMEï¿½)
 
 
 ###Description
