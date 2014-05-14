@@ -1,4 +1,5 @@
 ﻿#Find Home directory in Shiny Server
+Version 1.0
 
 Use Sys.getenv to get the environment variables.  Normal the environment variable "HOME" is set toto the home directory.
 
